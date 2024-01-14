@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196749980311",
+    "project_id": "iris-app-7b2b6",
+    "storage_bucket": "iris-app-7b2b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196749980311:android:43cce3bc9cf2e0b765efd2",
+        "android_client_info": {
+          "package_name": "com.example.iris_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1K_ByGiFLnT-Cb_b1lM5mAYLKOFz7kT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
