@@ -45,11 +45,4 @@ e. Screenshots
  <img src="https://github.com/sogalabhi/IRIS_2023_ABHIJITH_SOGAL_V_231CV203/assets/86911149/c9042937-863c-40e9-a490-948859c29d87" width="200" >
  <img src="https://github.com/sogalabhi/IRIS_2023_ABHIJITH_SOGAL_V_231CV203/assets/86911149/f6ae1c65-929a-47d1-9c60-5bb5a20f0678" width="200" >
  
-![WhatsApp Image 2024-01-15 at 09 19 24_af087bde](https://github.com/sogalabhi/IRIS_2023_ABHIJITH_SOGAL_V_231CV203/assets/86911149/c2116fe1-5a62-4902-86ee-f5aad39385e1)
-![WhatsApp Image 2024-01-15 at 09 19 24_7787f0c8](https://github.com/sogalabhi/IRIS_2023_ABHIJITH_SOGAL_V_231CV203/assets/86911149/535df152-3517-49e8-989d-c44879d8d4bf)
-![WhatsApp Image 2024-01-15 at 09 19 23_e04e6ecd](https://github.com/sogalabhi/IRIS_2023_ABHIJITH_SOGAL_V_231CV203/assets/86911149/339a6fed-2754-4688-8055-60df57e6d0a0)
-![WhatsApp Image 2024-01-15 at 09 19 23_50b67a06](https://github.com/sogalabhi/IRIS_2023_ABHIJITH_SOGAL_V_231CV203/assets/86911149/4ab315e1-a2e8-4cb4-97ee-ac56bc06eb52)
-![WhatsApp Image 2024-01-15 at 09 19 23_fb9462f2](https://github.com/sogalabhi/IRIS_2023_ABHIJITH_SOGAL_V_231CV203/assets/86911149/c9042937-863c-40e9-a490-948859c29d87)
-![WhatsApp Image 2024-01-15 at 09 19 22_16f12e28](https://github.com/sogalabhi/IRIS_2023_ABHIJITH_SOGAL_V_231CV203/assets/86911149/f6ae1c65-929a-47d1-9c60-5bb5a20f0678)
-
 
