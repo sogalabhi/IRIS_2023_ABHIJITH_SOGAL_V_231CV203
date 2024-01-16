@@ -1,3 +1,6 @@
+admin login: admin@gmail.com
+pass: abhijith
+
 a. List of implemented features:
 
 1. Implement User/Admin login/logout and User Registration using Firebase.
